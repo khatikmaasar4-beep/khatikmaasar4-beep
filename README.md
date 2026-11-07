@@ -1,7 +1,7 @@
 ## Hi Maasar here 👋
 
 Aspiring Web Developer 🚀  <br>
-Currently learning HTML, CSS, JavaScript, and React.  <br>
+Currently learning HTML, CSS, JavaScript, React, Java, Python and ML.  <br>
 
 I love building projects, exploring new technologies, and improving every day.  <br>
 This GitHub is my journey from beginner to pro 💻<br>
